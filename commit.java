@@ -3,5 +3,7 @@ public class commit {
         System.out.println("commit");
 
         System.out.println("commit3");
+
+        System.out.println("commit4");
     }
 }
